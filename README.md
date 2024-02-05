@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AroDaniel
+👋 Hi, I’m @AroDaniel
 - About Me
 - 👀 I’m a Data Analyst||Geospatial Analyst || Remote Sensing 
 - 🌱 I’m currently learning data analysis by handling different projects related to data analysis and I am also into Geospatial Analysis.
