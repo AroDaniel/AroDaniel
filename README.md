@@ -16,7 +16,7 @@ www.linkedin.com/in/aro-daniel
 👩‍💻 I currently use Excel, Python,Power BI, SQL, ArcGIS Pro and QGIS
 
 ✨ I am available for Data Analyst and Geospatial Analyst roles, kindly reach out to me via LinkedIn and email.
-BI
+
 💬 Ask me about Data Analysis and Geospatial Analysis 
 
 📫How to reach out to me:LinkedIn: @arodaniel, email: (arodaniel65@gmail.com)
