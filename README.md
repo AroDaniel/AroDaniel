@@ -9,7 +9,7 @@
 - 💞️ I’m looking forward to collaborate and volunteer for businesses in helping to make data-driven decisions to achieve business goals.
 
 ## Links
-
+https://github.com/AroDaniel
 www.linkedin.com/in/aro-daniel
 
 # more about me??
