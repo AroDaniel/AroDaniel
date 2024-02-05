@@ -1,5 +1,5 @@
 
-# 👋Hi, I’m AroDaniel
+# 👋Hi, I’m Aro Daniel
 
 
 ## About Me
